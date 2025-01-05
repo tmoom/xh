@@ -1,0 +1,54 @@
+
+{
+    
+   
+    
+    "主页url":"https://m.ytshengde.com/",
+    
+    "简介":"+onclick=\"MyTheme.Layer.Text('剧情简介','&&','500','350')",
+    
+    "导演":"导演：&&</p>",
+    
+    "影片状态":"更新：&&</p>",
+    
+    "影片类型":"分类：&&</a>",
+	
+	
+		 
+ 
+	
+	
+	"播放数组": "class=\"tab-pane fade in clearfix\">&&</div>",
+
+     "线路数组":"#playlist&&</li>[排序:秒播>爱坤>优质>量子>无尽>八戒]",
+    
+    "线路标题":"data-toggle=\"tab\">&&</a>",
+	
+	
+	 
+    "播放标题":">&&</a>[不包含:дрр滈凊]",
+    
+    "播放链接":"href=\"&&\"",
+    
+    "分类url":"https://m.ytshengde.com/sanyitp/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;akx",
+    
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}
+    }
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	 
+
+
+

@@ -1,0 +1,43 @@
+
+
+
+{
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "大大影视",
+  "主页url": "http://www.dadagui.me/",
+  
+  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+  
+  "分类url": "http://www.dadagui.me/vodtype/{cateId}-{catePg}.html",
+  
+  "副标题": "text-right\">&&</span>",
+  
+  "搜索模式": "1",
+  //"搜索后缀": "/detail/",
+  "搜索url": "/vodsearch/{wd}-------------.html",
+  "搜索数组": "stui-vodlist__thumb&&</a>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  "搜索副标题": "pic-text text-right\"&&</span>",
+  
+  "导演": "导演：&&</p>",
+  "主演": "主演：&&</p>",
+  "简介": "+none;\">&&</span>",
+  
+  "线路数组": "<h3&&/h3>[排序:LZ有广>FF有广>高速1]",
+  "线路标题": ">&&<",
+  
+  "播放数组": "stui-content__playlist clearfix\">&&</ul>" }
+
+
+
+
+
+
+
+
+
+
+
+
