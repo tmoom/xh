@@ -1,6 +1,6 @@
 {"urls": [
         {
-            "url": "http://5.91091.cn/t.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tmoom/xh/main/t.json",
             "name": "🏡小荷线路"
         },
 		
@@ -15,7 +15,7 @@
         },
 		
 		{
-            "url": "http://5.91091.cn/vip.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tmoom/xh/main/vip.json",
             "name": "🚀OK线路"
         },
 		
@@ -41,12 +41,15 @@
 		
 		
 		
-		
+		{
+            "url": "https://raw.gitmirror.com/tmoom/xh/main/t.json",
+            "name": "🚀小荷gihub2"
+        },
 		
 		
 		
 		{
-            "url": "http://5.91091.cn/ysc.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tmoom/xh/main/ysc.json",
             "name": "🚀影视仓专用"
         },
 		
