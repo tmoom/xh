@@ -1,0 +1,45 @@
+   
+
+
+{
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "河马影视",
+  "主页url": "https://www.hemahd.com/",
+  
+  "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+  
+  "分类url": "https://www.hemahd.com/tags/{cateId}--------{page}---.html",
+  
+  "副标题": "class=\"pic-text text-right\">&&</span></a>",
+  
+  "搜索模式": "1",
+  //"搜索后缀": "/detail/",
+  "搜索url": "/sou/{wd}-------------.html",
+  "搜索数组": "class=\"stui-vodlist__box\">&&</div>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  "搜索副标题": "class=\"pic-text text-right\">&&</span></a>",
+  
+  "导演": "导演：&&</p>",
+  "主演": "主演：&&</p>",
+  "简介": "</span>&&</span>",
+  
+  "线路数组": "class=\"pull-right1\">&&</span>[不包含:http下载#备用1#备用一#备用二][排序:超清一>超清二>极速二]",
+  "线路标题": "class=\"pull-right1\">&&</span>",
+  
+  "播放数组": "class=\"iconfont icon-iconfontplay2\">&&</div>" }
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    

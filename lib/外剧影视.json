@@ -1,0 +1,49 @@
+
+
+
+{
+
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "外剧影视",
+  "主页url": "https://auete.pro/",
+  
+  "分类": "电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm",
+  
+  "分类url": "https://auete.pro/{cateId}/index{catePg}.html",
+  
+  "副标题": "module-item-note\">&&</div>",
+  
+  
+  "搜索url": "/auete3so.php?searchword={wd}",
+  "搜索数组": "list-unstyled threadlist mb-0\">&&</div>",
+  
+  "搜索标题": "text-danger\">&&</span>",
+  "搜索链接": "href=\"&&\"",
+  
+  
+  
+  
+  
+  "线路数组": "</i>&&</div>",
+  
+  "线路标题": "</i>&&<small>",
+  
+  "播放数组": "<ul>&&</ul>"
+  
+  
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

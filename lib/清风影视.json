@@ -1,0 +1,51 @@
+
+
+
+
+{
+    
+    "作者":"荷城茶秀",
+    
+    "站名":"清风影视",
+    
+    "主页url":"https://www.qingfengys.com/",
+    
+    "简介":"【小荷】提醒您请勿相信影片中的广告，以免上当受骗！+onclick=\"MyTheme.Layer.Text('剧情简介','&&','500','350')",
+    
+    "导演":"导演：&&</p>",
+    
+    "影片状态":"更新：&&</p>",
+    
+    "影片类型":"分类：&&</a>",
+	
+	"搜索url": "/vod/search/wd/{wd}",
+	
+    
+	
+    
+    "线路数组":"#playlist&&</li>[排序:lzm3u8>gsm3u8]",
+    
+    "线路标题":"+>&&</a>+线路",
+    
+    "播放标题":">&&<",
+    
+    
+   
+	
+	
+	
+	
+	
+	
+   
+	
+	
+    
+    "分类url":"https://www.qingfengys.com/show/id/{cateId}/page/{catePg}.html",
+    
+    "分类二次截取": "swiper-wrapper\">&&</ul",
+    "分类数组": "<a&&</a>"}
+
+
+
+

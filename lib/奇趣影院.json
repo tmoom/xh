@@ -1,0 +1,50 @@
+
+
+
+
+{
+    
+    "作者":"荷城茶秀",
+    
+    "站名":"奇趣影院",
+    
+    "主页url":"https://www.qqutv.com/",
+    
+    "简介":"【小荷】提醒您请勿相信影片中的广告，以免上当受骗！+onclick=\"MyTheme.Layer.Text('剧情简介','&&','500','350')",
+    
+    "导演":"导演：&&</p>",
+    
+    "影片状态":"更新：&&</p>",
+    
+    "影片类型":"分类：&&</a>",
+	
+	"搜索url": "https://www.qqutv.com/so{wd}/page/1.html",
+	"POST请求数据": "searchword={wd}",
+    
+	
+    
+    "线路数组":"#playlist&&</li>[排序:高清①>高清②>高清③>高清④>奇趣影视①>蓝光③>奇趣影视②>奇趣影视③]",
+    
+    "线路标题":"+>&&</a>+线路",
+    
+    "播放标题":">&&<",
+    
+    
+   
+	
+	
+	
+	
+	
+	
+   
+	
+	
+    
+    "分类url":"https://www.qqutv.com/qiqu/{cateId}/page/{catePg}.html;;akx",
+    
+    "分类":"电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongmna#纪录片$jilupian"}
+
+
+
+
